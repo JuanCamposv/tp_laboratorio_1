@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1474679394 source:c:\users\osvaldo\desktop\tp 2 estructuras\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1474676760 c:\users\osvaldo\desktop\tp 2 estructuras\funciones.h
+
+1474673994 source:c:\users\osvaldo\desktop\tp 2 estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
